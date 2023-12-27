@@ -1,4 +1,4 @@
 # first-demo
 this is my first repository
 <br>
-author : Sanskar Dhanotiya
+author : Sanskar Dhanotiya sarkar 
